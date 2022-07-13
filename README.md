@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ashraful 
-#### I am student
+#### I am a student
 ![I am student](https://scontent.fdac24-2.fna.fbcdn.net/v/t1.6435-9/64348853_1162291413956936_4864654120373452800_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF56xNBonFjGsbDnULClqrOAQRos4TMu3EBBGizhMy7cSnBg5IiDzCvNPwVJOwhVf1A3-Jn2JdPm4mu4Wv7aDk4&_nc_ohc=b6SYZ86_4A0AX-ntWLm&_nc_ht=scontent.fdac24-2.fna&oh=00_AT8zQlgMDULXpfP9H6-9LaFip0QIMIsqYojkGbC7_GHkCg&oe=62F5A784)
 
 I am currently a student trying to polishing my programming skills. I am very much curious to learn new thing.

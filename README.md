@@ -1,101 +1,154 @@
 <!-- Modern Animated GitHub Profile README -->
-<!-- Designed to showcase research & projects focus -->
+<!-- Ashraful Kabir Alif - AI Researcher | ML Engineer | Systems Builder -->
 
 <div align="center">
   
-<!-- Animated Header with Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashraful%20Kabir%20Alif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Researcher%20|%20Developer%20|%20Innovator&descSize=18&descAlignY=52"/>
+<!-- Animated Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashraful%20Kabir%20Alif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Researcher%20|%20ML%20Engineer%20|%20Systems%20Builder&descSize=18&descAlignY=52"/>
 
 <!-- Animated Typing Introduction -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=%F0%9F%94%AC+Exploring+the+Frontiers+of+Technology;%F0%9F%92%A1+Transforming+Ideas+into+Innovation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=%F0%9F%94%AC+Building+Explainable+%26+Trustworthy+AI+Systems;%F0%9F%9A%80+Research+%7C+Machine+Learning+%7C+Computer+Vision+%7C+Bioinformatics" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Animated Social Badges -->
+<!-- Professional Social Badges -->
 <a href="https://github.com/AshrafulKabir7">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
-</a>
-<a href="mailto:md.ashraful.kabir.alif@g.bracu.ac.bd">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/ashrafulkabiralif/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/ashraful_kabir_alif/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="mailto:md.ashraful.kabir.alif@g.bracu.ac.bd">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://itskabir.com">
+  <img src="https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=safari&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=AshrafulKabir7&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<!-- About Me Section with Animation -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
+I work at the intersection of **Machine Learning, Computer Vision, Bioinformatics, and Distributed Systems** with a strong focus on **explainable, fair, and trustworthy AI**.
+
 ```python
-class Researcher:
+class AIResearcher:
     def __init__(self):
         self.name = "Ashraful Kabir Alif"
-        self.role = "Student & Researcher"
-        self.university = "BRAC University"
-        self.languages = ["Python", "JavaScript", "HTML/CSS"]
-        self.interests = [
-            "Machine Learning",
-            "Data Science", 
-            "Algorithm Design",
-            "Web Development"
+        self.role = "AI Researcher & ML Engineer"
+        self.education = {
+            "degree": "B.Sc. in Computer Science & Engineering",
+            "university": "BRAC University",
+            "advisor": "Prof. Md. Rabiul Alam (Stanford/Elsevier Top 2%)"
+        }
+        self.research_focus = [
+            "Explainable & Fair AI (XAI)",
+            "Medical Imaging & Healthcare AI",
+            "Bioinformatics & Computational Genomics",
+            "Computer Vision for Scientific Discovery"
         ]
-        self.motto = "Keep learning because knowledge is the key to power!"
-    
-    def current_focus(self):
-        return [
-            "🔬 Conducting research in ML/AI",
-            "📊 Building data-driven projects",
-            "🧮 Mastering DSA & Algorithms",
-            "🌐 Developing web applications"
-        ]
+        
+    def achievements(self):
+        return {
+            "publications": "Springer Nature + MNRAS (submitted)",
+            "accuracy": "92.16% on Exoplanet Detection",
+            "teaching": "120+ students mentored per semester",
+            "invited_speaker": "Berlin 2025, Rome 2026"
+        }
 
-me = Researcher()
+me = AIResearcher()
 ```
 
 <br clear="both"/>
 
 ---
 
-<!-- Research & Projects Focus -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Research & Projects
+## 🔬 Research Interests
 
 <div align="center">
 
-<!-- Animated Research Stats Cards -->
+| Domain | Focus Areas |
+|--------|------------|
+| 🧠 **Explainable AI** | SHAP, Grad-CAM, Trustworthy ML, Fairness Metrics |
+| 🏥 **Medical Imaging** | Chest X-Ray Diagnosis, CheXpert, Multi-Disease Classification |
+| 🔭 **Astronomy AI** | Exoplanet Detection, JWST Data, Contrastive Learning |
+| 🧬 **Bioinformatics** | Chromatin Accessibility, DNA Sequence Analysis |
+| 📊 **Tabular ML** | Monotonic Neural Networks, Semantic Loss Constraints |
+
+</div>
+
+---
+
+## 📚 Research Projects
+
+<div align="center">
+
+<!-- Research Project Cards -->
 <table>
 <tr>
 <td width="50%">
 
-### 🔬 Research Interests
-  
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Science-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-009688?style=flat-square&logo=dialogflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep_Learning-FF0000?style=flat-square&logo=pytorch&logoColor=white"/>
+### 🔭 Exoplanet Detection using JWST
+<img src="https://img.shields.io/badge/Accuracy-92.16%25-00d9ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Submitted_to_MNRAS-yellow?style=flat-square"/>
+
+*Computer Vision · Contrastive Learning · Siamese Networks · ResNet18*
+
+- JWST/MIRI coronagraphic imaging analysis
+- Few-shot learning on imbalanced datasets
+- **Dice Score:** 1.0 (stars), 0.9 (exoplanets)
+- **IoU:** 1.0 (stars), 0.8 (exoplanets)
 
 </td>
 <td width="50%">
 
-### 🚀 Project Domains
-  
-<img src="https://img.shields.io/badge/Web_Development-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Development-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Visualization-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Automation-0A0A0A?style=flat-square&logo=github-actions&logoColor=white"/>
+### 🏥 Fair & Explainable Chest X-Ray AI
+<img src="https://img.shields.io/badge/Dataset-CheXpert-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-In_Preparation-orange?style=flat-square"/>
+
+*DenseNet-121 · Vision Transformer · Grad-CAM · Fairness Analysis*
+
+- Multi-disease classification
+- Demographic bias analysis
+- Model interpretability with XAI
+- Healthcare AI trustworthiness
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧬 Chromatin Accessibility Prediction
+<img src="https://img.shields.io/badge/Domain-Bioinformatics-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-In_Preparation-orange?style=flat-square"/>
+
+*Deep Learning · DNA Sequence Analysis · Explainability*
+
+- Predicting DNA accessibility regions
+- Interpretable ML for genomics
+- ATAC-seq data analysis
+
+</td>
+<td width="50%">
+
+### 📊 Monotonic Semantic Learning
+<img src="https://img.shields.io/badge/Type-Tabular_ML-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-In_Preparation-orange?style=flat-square"/>
+
+*Neuro-Symbolic · Semantic Loss · Reliability Constraints*
+
+- Domain-specific monotonicity
+- Trustworthy predictions
+- Constraint-based learning
 
 </td>
 </tr>
@@ -103,60 +156,145 @@ me = Researcher()
 
 </div>
 
-<!-- Featured Projects Section -->
-### 📂 Featured Projects
+---
+
+## 📝 Publications
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshrafulKabir7&repo=Guess_game&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff)](https://github.com/AshrafulKabir7/Guess_game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshrafulKabir7&repo=CSE471_project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff)](https://github.com/AshrafulKabir7/CSE471_project)
+| Status | Title | Venue |
+|--------|-------|-------|
+| ✅ **Published** | Pattern Recognition in Disaster Response: Leveraging Machine Learning for Twitter Analysis | **Springer Nature** |
+| 📤 **Submitted** | Synergistic Application of Contrastive Learning and CV for Direct Imaging-based Exoplanet Detection | **MNRAS (Oxford)** |
+| 📝 **In Prep** | Fair and Explainable Deep Learning for Multi-Disease Chest X-Ray Diagnosis | — |
+| 📝 **In Prep** | Monotonic Neuro-Symbolic Semantic Loss for Tabular Classification | — |
+| 📝 **In Prep** | Explainable Deep Learning for Chromatin Accessibility Prediction | — |
 
 </div>
 
 ---
 
-<!-- Tech Stack Section -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
+## 🛠️ Systems & Product Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%">
+
+### 📱 ReXearch
+*Research Networking Platform*
+
+<img src="https://img.shields.io/badge/Users-150+-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Google_Play-Coming_Soon-green?style=flat-square"/>
+
+</td>
+<td width="33%">
+
+### 💄 TryOn
+*AI Cosmetics Try-On System*
+
+<img src="https://img.shields.io/badge/Speed-30+_FPS-00d9ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Real--time-Yes-green?style=flat-square"/>
+
+</td>
+<td width="33%">
+
+### 🎬 QuantumSketch
+*AI Visual Explainer Engine*
+
+<img src="https://img.shields.io/badge/Videos-50+_STEM-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Duration-60s_each-blue?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+### 🎓 UniVerse LMS
+*University Management System*
+
+Course add/drop, payments, grades
+
+</td>
+<td width="33%">
+
+### 💻 MultiLang Code Visualizer
+*Step-by-Step Execution Tool*
+
+Used in programming courses
+
+</td>
+<td width="33%">
+
+### 📋 ProcureFlow
+*Workflow Procurement System*
+
+<img src="https://img.shields.io/badge/Efficiency-↑50%25-green?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ⚙️ Tech Stack
 
 <div align="center">
 
 <!-- Programming Languages -->
 <h4>💻 Languages</h4>
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,go,js,php&theme=dark" />
 </p>
 
-<!-- Tools & Frameworks -->
-<h4>🛠️ Tools & Frameworks</h4>
+<!-- AI/ML -->
+<h4>🤖 AI/ML & Deep Learning</h4>
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator&theme=dark" />
-</p>
-
-<!-- Libraries & Technologies -->
-<h4>📚 Libraries & Technologies</h4>
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+<!-- Computer Vision & NLP -->
+<h4>👁️ Computer Vision & NLP</h4>
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+<img src="https://img.shields.io/badge/Grad--CAM-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-6B7280?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</p>
+
+<!-- Backend & Data -->
+<h4>🔧 Backend & Data</h4>
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,postgres,redis,docker&theme=dark" />
+</p>
+
+<!-- Tools -->
+<h4>🛠️ Tools & Platforms</h4>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,latex&theme=dark" />
 </p>
 
 </div>
 
 ---
 
-<!-- GitHub Stats Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
   
-<!-- Stats Cards Row -->
+<!-- Stats Cards -->
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AshrafulKabir7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AshrafulKabir7&theme=tokyonight&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
 </p>
 
-<!-- Languages Card -->
+<!-- Languages & Activity -->
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafulKabir7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages" />
 
 <!-- Activity Graph -->
@@ -166,36 +304,83 @@ me = Researcher()
 
 ---
 
-<!-- Achievements & Highlights -->
-## 🏆 Achievements & Highlights
+## 🏆 Achievements & Honors
 
 <div align="center">
 
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=AshrafulKabir7&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 
+<br/><br/>
+
+| 🏅 Award | 📅 Year |
+|----------|---------|
+| 🎓 **Vice-Chancellor's Merit List** — BRAC University | 2021–2024 |
+| 📚 **Dean's Merit List** — Multiple Semesters | 2021–2024 |
+| 🚀 **NVIDIA Inception Program** — Startup Accepted | 2024 |
+| 🧡 **Orange Corners Programme** — Top 14 of 265 Teams | 2025 |
+| 🤖 **Solvio AI Hackathon** — Selected Participant | 2025 |
+| 🎤 **Distinguished Speaker** — Adv. ESCC, Berlin | 2025 |
+| 🎤 **Distinguished Speaker** — Adv. Chemistry Congress, Rome | 2026 |
+
 </div>
 
 ---
 
-<!-- Current Status -->
-## 📊 Current Status
+## 👨‍🏫 Teaching Experience
 
 <div align="center">
 
-| 🎯 What I'm Doing | 📌 Status |
-|---|---|
-| 🔬 Working on Python-based research projects | ![In Progress](https://img.shields.io/badge/In_Progress-00d9ff?style=flat-square) |
-| 📚 Learning DSA & Advanced Algorithms | ![Learning](https://img.shields.io/badge/Learning-ffd700?style=flat-square) |
-| 🤝 Looking for collaboration on innovative projects | ![Open](https://img.shields.io/badge/Open-00ff00?style=flat-square) |
-| 💡 Exploring new technologies & frameworks | ![Ongoing](https://img.shields.io/badge/Ongoing-ff6b6b?style=flat-square) |
+**Undergraduate Teaching Assistant** @ BRAC University *(Spring 2023 – Present)*
+
+| Course | Students/Semester |
+|--------|-------------------|
+| Python Programming | 120+ |
+| Data Structures & Algorithms | 120+ |
+| Object-Oriented Programming | 120+ |
+
+*Delivering lectures, conducting labs, providing 1-on-1 mentorship, and guiding algorithm design*
 
 </div>
 
 ---
 
-<!-- Connect Section -->
-## 🤝 Let's Connect!
+## 💼 Professional Experience
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Shahriar Labs
+**AI Developer** *(2024 – Present)*
+
+- Built **6+ AI-powered applications**
+- Full-stack systems (Django, FastAPI, PostgreSQL)
+- LLM & CV pipelines with **>99% uptime**
+- Dockerized deployment handling 1000s of API calls/day
+
+</td>
+<td width="50%">
+
+### 🏢 Sirajganj Economic Zone Limited
+**Software & Systems Analyst** *(Jan 2025 – Present)*
+
+- Designing modular ERP with **11 core modules**
+- Process digitization reducing paper ops by **~60%**
+- Technical Lead for corporate website revamp
+- Microsoft 365 admin for **50+ employees**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -203,26 +388,29 @@ me = Researcher()
 
 <br/>
 
-**I love connecting with fellow developers and researchers!**
-
-*Feel free to reach out for collaborations, research discussions, or just a friendly chat!*
+**Open to research collaborations, PhD opportunities, and impactful projects!**
 
 <br/>
 
 <a href="mailto:md.ashraful.kabir.alif@g.bracu.ac.bd">
-  <img src="https://img.shields.io/badge/📧_Email_Me-00d9ff?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📧_Email_Me-00d9ff?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/ashrafulkabiralif/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge"/>
+</a>
+<a href="https://itskabir.com">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-00d9ff?style=for-the-badge"/>
 </a>
 
 </div>
 
 ---
 
-<!-- Quote Section -->
 <div align="center">
 
 ### 💭 Philosophy
   
-*"Keep learning because knowledge is the key to power!"*
+*"Keep learning — knowledge is the key to power."*
 
 <br/>
 
@@ -244,10 +432,9 @@ me = Researcher()
 
 </div>
 
-<!-- Footer Wave -->
+<!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-<!-- Visitor Counter Badge -->
 <div align="center">
   
 ![](https://hit.yhype.me/github/profile?user_id=AshrafulKabir7)

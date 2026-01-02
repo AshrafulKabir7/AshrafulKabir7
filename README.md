@@ -1,16 +1,94 @@
-### Hi there 👋, my name is Ashraful 
-#### I am a student
-![I am student](https://scontent.fdac24-2.fna.fbcdn.net/v/t1.6435-9/64348853_1162291413956936_4864654120373452800_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF56xNBonFjGsbDnULClqrOAQRos4TMu3EBBGizhMy7cSnBg5IiDzCvNPwVJOwhVf1A3-Jn2JdPm4mu4Wv7aDk4&_nc_ohc=b6SYZ86_4A0AX-ntWLm&_nc_ht=scontent.fdac24-2.fna&oh=00_AT8zQlgMDULXpfP9H6-9LaFip0QIMIsqYojkGbC7_GHkCg&oe=62F5A784)
+# Ashraful Kabir Alif 👋  
+**AI Researcher | Machine Learning Engineer | Systems Builder**
 
-I am currently a student trying to polishing my programming skills. I am very much curious to learn new thing.
+I work at the intersection of **Machine Learning, Computer Vision, Bioinformatics, and Distributed Systems**,  
+with a strong focus on **explainable, fair, and trustworthy AI**.  
+My work spans academic research, real-world systems, and product-oriented engineering.
 
-Skills: Python / HTML / CSS / adobe illustrator / adobe photoshop / adobe indesign /  /
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&center=true&vCenter=true&width=800&lines=AI+Researcher;Machine+Learning+Engineer;Explainable+and+Fair+AI;Medical+Imaging+%7C+Bioinformatics;Systems+and+Product+Builder" />
+</p>
 
-- 🔭 I’m currently working on  python based project 
-- 🌱 I’m currently learning DSA and Algorithms 
-- 🤔 I’m looking for help with some python resources and new project ideas. 
-- 📫 How to reach me: mail me at: md.ashraful.kabir.alif@g.bracu.ac.bd 
+---
 
+## 🔬 Research Interests
+- Explainable & Fair AI (XAI, SHAP, Grad-CAM, Trustworthy ML)
+- Medical Imaging & Healthcare AI (Chest X-Ray, CheXpert)
+- Bioinformatics & Computational Genomics
+- Multi-Modal & Spatial Transcriptomics Analysis
+- Reliable and Constrained Deep Learning
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AshrafulKabir7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/media/set/?set=a.494814354037982&type=3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ashraful.kabir2021//)  
+---
 
+## 📚 Research Projects
+- **Fair & Explainable Deep Learning for Multi-Disease Chest X-Ray Diagnosis**  
+  *CheXpert · DenseNet-121 / Vision Transformer · Grad-CAM · Fairness Metrics*  
+  Focused on disease classification, demographic bias analysis, and model interpretability.
+
+- **Exoplanet Detection from JWST Data**  
+  *Computer Vision · Contrastive Learning · Astronomy Datasets*  
+  Automated detection of exoplanetary signals from high-resolution telescope imagery.
+
+- **Monotonic Neural Networks with Semantic Loss**  
+  *Explainable Tabular ML · Reliability Constraints*  
+  Enforcing domain-specific monotonicity constraints for trustworthy predictions.
+
+- **Spatial Transcriptomics Analysis of Human DLPFC**  
+  *10x Genomics Visium · Scanpy · Clustering Evaluation*  
+  Identifying biologically meaningful spatial domains in brain tissue.
+
+---
+
+## 🛠️ Systems & Product Projects
+- **LetX** – Collaborative LaTeX Platform (Overleaf Alternative)  
+  *Real-time Collaboration · Distributed Compilation · WebSockets · Redis*
+
+- **KajAche** – Just-in-Time Workforce OS  
+  *Django · PostgreSQL · Task & Workforce Orchestration*
+
+- **QuantumSketch** – AI-Powered Visual Explainer Engine  
+  Transforming complex code and math into interactive, animated explanations.
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages**  
+- Python, Java, SQL  
+
+**Machine Learning & Deep Learning**  
+- PyTorch, TensorFlow, Scikit-learn  
+
+**Computer Vision & Imaging**  
+- OpenCV, Grad-CAM, Medical Image Analysis  
+
+**Bioinformatics & Data Science**  
+- Scanpy, RNA-seq, ATAC-seq, Spatial Transcriptomics  
+
+**Backend & Systems**  
+- Django, FastAPI, Redis, WebSockets, Docker  
+
+**Tools & Platforms**  
+- Git, GitHub, Linux, Jupyter, Google Colab  
+
+---
+
+## 📈 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshrafulKabir7&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AshrafulKabir7&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: **md.ashraful.kabir.alif@bracu.ac.bd**
+- 💼 LinkedIn: *(add your profile link)*
+- 📄 Google Scholar: *(to be added)*
+
+---
+
+> *“Keep learning — knowledge is the key to power.”*
